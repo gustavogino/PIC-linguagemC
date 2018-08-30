@@ -1,6 +1,6 @@
 # PIC16F877A Exercicios feitos na Linguagem C
 <br>
-<b>Exercicios:</b><br><
+<b>Exercicios:</b><br>
 TC1 - Sequencia de leds<br>
 TC2 - Sequência de leds com botão para inversão e 3 sequências<br>
 TC3 – Mini prensa<br>
