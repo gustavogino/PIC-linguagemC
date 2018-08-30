@@ -1,4 +1,4 @@
-# PIC16F877A Exercicios feitos na Linguagem C
+# PIC16F877A Exercícios feitos na Linguagem C
 <br>
 <b>Exercicios:</b><br>
 TC1 - Sequencia de leds<br>
